@@ -1,1 +1,1 @@
-# Aula-6-
+# A6-Econometria-Avancada
